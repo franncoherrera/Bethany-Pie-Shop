@@ -2,7 +2,6 @@
 
 Tienda de venta de pasteles
 
-
 Demo: https://franncoherrera.github.io/Bethany-Pie-Shop/
 
 Para poder ver levantar el proyecto se recomienda:
